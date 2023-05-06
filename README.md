@@ -5,7 +5,7 @@
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-01-28/d8ea3ec3-f21d-4926-b4ad-ef142c562af6/File.jpeg?tl_px=0,0&br_px=972,542&sharp=0.8&width=560&wat_scale=50&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&wat_pad=1317,54)
 
-**2. Type "www.github.com [[Enter]]"**
+**2. Type "www.github.com"**
 
 **3. press the + symbol on the upper right corner of the page**
 
